@@ -1,0 +1,5 @@
+discount_group,transaction_rows,total_sales,total_profit,average_profit
+No Discount,4798,1087908.47,320987.6,66.9
+Low Discount,3803,846522.24,100785.47,26.5
+Medium Discount,460,234137.9,-35817.47,-77.86
+High Discount,933,128632.25,-99558.59,-106.71
